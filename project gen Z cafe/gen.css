@@ -1,0 +1,174 @@
+ body {
+            font-family: Arial, sans-serif;
+          Background-color:black;
+            text-align: center;
+        }
+        header {
+            background-color: #ff5733;
+            color: white;
+            padding: 1rem;
+font-size:30px;
+font-family:sans serif;
+text-color:
+        }
+        nav ul {
+            list-style: none;
+            padding: 0;
+        }
+        nav ul li {
+            display: inline;
+            margin: 0 10px;
+        }
+        nav ul li a {
+            color: white;
+            text-decoration: none;
+        }
+        section {
+            padding: 20px;
+       font-size:15px;
+
+        }
+        .heading
+{
+font-family:cursive;
+font-size:25px;
+
+}
+.quote
+{font-size:35px;
+font-family:lucide console;
+text-align:left;
+text-indent:40px;
+
+}
+button { color:white;
+Background-color:red;
+font-size:20px;
+align-items: center;
+}
+        .menu-items {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            flex-wrap: wrap;
+}
+        .menu-items .item {
+            background: white;
+            padding: 10px;
+            margin: 5px;
+            display: inline-block;
+            border-radius: 5px;
+            box-shadow: 0 0 5px rgba(0,0,0,0.1);
+            text-align: center;
+            width: 145px;
+           height:200px;
+        }
+        .menu-items .item img {
+            width: 100%;
+            border-radius: 5px;
+        }
+  .menu-items1 {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            flex-wrap: wrap;
+}
+
+         .menu-items1 .item {
+            background: white;
+            padding: 10px;
+            margin: 5px;
+            display: inline-block;
+            border-radius: 5px;
+            box-shadow: 0 0 5px rgba(0,0,0,0.1);
+            text-align: center;
+            width: 145px;
+           height:200px;
+        }
+ .menu-items1 .item img {
+            width: 100%;
+            border-radius: 5px;
+}
+  .menu-items2 {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            flex-wrap: wrap;
+}
+
+  .menu-items2 .item {
+            background: white;
+            padding: 10px;
+            margin: 5px;
+            display: inline-block;
+            border-radius: 5px;
+            box-shadow: 0 0 5px rgba(0,0,0,0.1);
+            text-align: center;
+            width: 145px;
+           height:200px;
+        }
+ .menu-items2 .item img {
+            width: 100%;
+            border-radius: 5px;
+}
+  .menu-items3 {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            flex-wrap: wrap;
+}
+
+
+  .menu-items3 .item {
+            background: white;
+            padding: 10px;
+            margin: 5px;
+            display: inline-block;
+            border-radius: 5px;
+            box-shadow: 0 0 5px rgba(0,0,0,0.1);
+            text-align: center;
+            width: 145px;
+           height:200px;
+        }
+ .menu-items3 .item img {
+            width: 100%;
+            border-radius: 5px;
+}
+
+ .menu-items4 .item {
+            background: white;
+            padding: 10px;
+            margin: 5px;
+            display: inline-block;
+            border-radius: 5px;
+            box-shadow: 0 0 5px rgba(0,0,0,0.1);
+            text-align: center;
+            width: 145px;
+           height:200px;
+        }
+ .menu-items4 .item img {
+            width: 100%;
+            border-radius: 5px;
+}
+
+
+.p
+{
+font-size:20px;
+font-family:fantasy;
+}
+
+        form input, form textarea, form button {
+            display: block;
+            width: 80%;
+            margin: 10px auto;
+            padding: 10px;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            padding: 10px;
+            position: relative;
+            bottom: 0;
+            width: 100%;
+        }
